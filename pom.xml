@@ -23,8 +23,10 @@
         <version>3.2.2</version>
         <configuration>
           <archive>
+            <manifest>
             <addClasspath>true</addClasspath>
             <mainClass>com.example.App</mainClass>
+          </manifest>
           </archive>
         </configuration>
       </plugin>
